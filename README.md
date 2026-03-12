@@ -1,7 +1,7 @@
-# VBB Monitor 🚂
+# VBB Display 🚂
 
 ## 🗺️ Overview
-The VBB Monitor is an ESP32-based IoT device that displays real-time public transit departures for the Berlin/Brandenburg (VBB) network. Using a standard 16x2 LCD, it shows the upcoming train/bus line, its destination, and real-time delay information. 
+The VBB Display is an ESP32-based IoT device that displays real-time public transit departures for the Berlin/Brandenburg (VBB) network. Using a standard 16x2 LCD, it shows the upcoming train/bus line, its destination, and real-time delay information. 
 
 Instead of hardcoding WiFi credentials or station IDs, this project features a built-in Serial CLI that allows users to configure the device on the fly and save settings persistently to flash memory.
 
