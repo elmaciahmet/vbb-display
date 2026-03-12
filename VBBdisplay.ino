@@ -1,5 +1,5 @@
 /*
-    VBB Monitor - Parallel LCD Edition
+    VBB Display
     Board: Arduino Nano ESP32
 */
 
